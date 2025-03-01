@@ -1,0 +1,2 @@
+pywhatkit==5.2
+requests
